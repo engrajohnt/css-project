@@ -1,0 +1,101 @@
+ #container{
+    background-color: rgb(129, 15, 15);
+     margin-top: 2em;
+     padding: 15px;
+     border-radius: 5px;
+
+}
+main{
+    display: block;
+}
+.top{
+    color: white;
+    font-size: 4.1rem;
+    line-height: 1.5;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+body{
+    font-family: 'poppins' , sans-serif;
+    font-size: 1rem;
+    line-height:1.5 ;
+    text-align: center;
+}
+.save{
+    color: #bcbbbb;
+    display: block;
+}
+figure{
+    display: block;
+    background-image: url("images/Engr\ Adenikinju\ john\ -\ 1.jpg");
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-color:rgba(124, 21, 21, 0.878); 
+    padding: 10px;
+    margin:0
+    
+}
+figcaption{
+margin: 15px 0 5px 0;
+color: white;
+display: block;
+font-size: 1.0rem;
+}
+h3{
+     margin: 50px 0;
+     text-align: center;
+     display: block;
+     font-size: 1.3rem;
+     font-weight: bold;
+     color: white;
+
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2;
+    display: block;
+    color: white;
+    
+}
+strong{
+    font-weight: bolder;
+}
+#code{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    align-items: center;
+    padding-left: 32%;
+    margin-top: -50px;
+    width: 35%;
+    display:block ;
+    justify-content: center;
+    align-items: center;
+
+}
+.para{
+   
+    display: block;
+    text-align: left;
+   
+
+}
+cite{
+    margin-left: -15em;
+}
+.footer{
+    color: white;
+    display: block;
+    margin-top: -25px;
+}
+.h3{
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+#link{
+    text-decoration: underline;
+    color: rgba(46, 178, 230, 0.81);
+    cursor: pointer;
+}
